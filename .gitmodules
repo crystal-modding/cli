@@ -1,0 +1,6 @@
+[submodule "fmt"]
+	path = fmt
+	url = https://github.com/fmtlib/fmt
+[submodule "nfd-extended"]
+	path = nfd-extended
+	url = https://github.com/btzy/nativefiledialog-extended
